@@ -1,1 +1,6 @@
 Source: Plurasight - Advanced React by Samer Buna
+
+Snapshot testing
+
+$> yarn add --dev react-test-renderer
+
