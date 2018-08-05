@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "pm2 start lib/server.js --watch --interpreter babel-node",
     "kill": "pm2 kill",
+    "log": "pm2 log",
     "webpack": "webpack -wd",
     "test": "jest --watch  --testEnvironment node"
   },   
